@@ -1,0 +1,2 @@
+-Aula de clases: U07
+-Horario de la materia: 13:00-14:00
