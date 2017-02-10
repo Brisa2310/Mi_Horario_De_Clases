@@ -1,0 +1,2 @@
+-Aula de clases: G03
+-Horario de la materia: 20:00-21:00

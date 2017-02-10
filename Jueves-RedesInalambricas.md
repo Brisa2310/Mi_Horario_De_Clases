@@ -1,0 +1,2 @@
+-Aula de clases: G08
+-Horario de la materia: 19:00-20:00

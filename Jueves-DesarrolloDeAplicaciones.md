@@ -1,0 +1,2 @@
+-Aula de clases: G01
+-Horario de la materia: 12:00-13:00
