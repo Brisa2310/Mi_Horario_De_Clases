@@ -1,0 +1,2 @@
+-Aula de clases: F02
+-Horario de la materia: 14:00-15:00
